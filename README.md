@@ -1,1 +1,1 @@
-# Comcast-Telecom-Consumer-Complaints
+Building user-based recommendation model for Amazon.
